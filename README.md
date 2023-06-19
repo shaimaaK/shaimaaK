@@ -5,15 +5,12 @@
 ### 💻 &nbsp;About Me
 
 💡 &nbsp; I'm a data scientist with Computer Engineering background and development skills, building intelligent web apps using the latest technologies\
-💻 &nbsp;I'm currently studying Master of Science in Artificial Intelligence degree while Working as a research assistant\
 📃 &nbsp;I'm interested in deep learning, machine learning, and NLP subfields of AI.\
 🌟 I enjoy archiving useful and interesting articles on [medium](https://medium.com/@shaimaa777)\
 💬 &nbsp; Feel free to reach out to me for projects, collaborations, or discussions on the topics mentioned above!\
 ✉️ &nbsp; Willing to contribute to open-source projects. You can email me at shaimaa.github@gmail.com. I'll try to respond as soon as possible!
 
 ### 🛠 &nbsp;Tech Stack
-
-
 
 
 ### Languages
