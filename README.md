@@ -1,17 +1,15 @@
 ### Thank you for visiting my GitHub Profile👋 I am Shaimaa, ML Engineer
 
-![version :15.06.2023](https://img.shields.io/badge/version-15.06.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=shaimaaK&color=red)&nbsp;
 [![GitHub shaimaaK](https://img.shields.io/github/followers/shaimaaK?label=follow&style=social)](https://github.com/shaimaaK)&nbsp;
-![build: not finished](https://img.shields.io/badge/build-developing-red)
-### 👨🏻‍💻 &nbsp;About Me
+### 💻 &nbsp;About Me
 
-💡 &nbsp; I'm a data scientists with Computer Engineering background and development skills, building intelligent web apps using the lastest technologies\
-💻 &nbsp;I'm currently studying Master of Science in Artificial Intelligence degree while Working as research assistant\
-🌱 &nbsp;I'm interested in deep learning, machine learning, NLP subfields of AI.\
+💡 &nbsp; I'm a data scientist with Computer Engineering background and development skills, building intelligent web apps using the latest technologies\
+💻 &nbsp;I'm currently studying Master of Science in Artificial Intelligence degree while Working as a research assistant\
+📃 &nbsp;I'm interested in deep learning, machine learning, and NLP subfields of AI.\
 🌟 I enjoy archiving useful and interesting articles on [medium](https://medium.com/@shaimaa777)\
-💬 &nbsp;Feel free to reach out to me for project, collaborations, or discussions on the aforementioned topics!\
-✉️ &nbsp;Willing to contribute in opensource projects. You can email me at shaimaa.github@gmail.com. I'll try to respond as soon as possible!
+💬 &nbsp; Feel free to reach out to me for projects, collaborations, or discussions on the topics mentioned above!\
+✉️ &nbsp; Willing to contribute to open-source projects. You can email me at shaimaa.github@gmail.com. I'll try to respond as soon as possible!
 
 ### 🛠 &nbsp;Tech Stack
 
